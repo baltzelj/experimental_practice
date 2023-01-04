@@ -14,3 +14,5 @@ Important steps for git workflow:
 6. Review changes with git log
 
 Adding Hello, World to test merging branches.
+
+Independent testing and experimentation.
