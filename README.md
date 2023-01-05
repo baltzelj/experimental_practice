@@ -1,8 +1,10 @@
 # README #
 
-#Practicing the pull command #
+# Practicing the pull command #
 This is for the purpose of practicing the pull command.
 
+# Push Practice #
+Testing out the push command once more.
 
 # Learning Git #
 Testing out editing with nano.
